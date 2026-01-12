@@ -2,4 +2,4 @@
 Training github
 
 
-Training GIT COMMIT
+CONFLICT 2
